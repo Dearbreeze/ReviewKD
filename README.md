@@ -15,7 +15,7 @@ We recommend Anaconda as the environment
 
 ## Training
 1. Modify --train_json and --test_json in ReviewKD_train.py
-2. Preper Pre-traind of Teacher network and modify --teacher_ckpt to your loacl path
+2. Preper a pre-trained of Teacher network and modify --teacher_ckpt to your loacl path
 3. Begining training:
  ```
 $ python ReviewKD_train.py
