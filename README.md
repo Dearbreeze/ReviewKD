@@ -25,22 +25,22 @@ $ python ReviewKD_train.py
 ### The well-trained teacher networks Weight
 #### UCF-QNRF
 ##### CSRNet
-Baidu Yun [Link](https://pan.baidu.com/s/1WttH01bw2sqG5YFXK2un9Q) extract code: fdji
+Baidu Yun [Link](https://pan.baidu.com/s/1WttH01bw2sqG5YFXK2un9Q) (extract code: fdji)
 ##### BL
-Baidu Yun [Link](https://pan.baidu.com/s/1DNcV0FGNd0YU0e-HJlzc2w) extract code: 0uqw
+Baidu Yun [Link](https://pan.baidu.com/s/1DNcV0FGNd0YU0e-HJlzc2w) (extract code: 0uqw)
 
 #### ShanghaiTech A
 ##### CSRNet
-Baidu Yun [Link](https://pan.baidu.com/s/1C9Xfe35X0uIFPYjY9ItykQ) extract code: 9lrk
+Baidu Yun [Link](https://pan.baidu.com/s/1C9Xfe35X0uIFPYjY9ItykQ) (extract code: 9lrk)
 ##### BL
-Baidu Yun [Link](https://pan.baidu.com/s/1r-U4zNcqfH9uYSbBnBpsrA) extract code: pmos
+Baidu Yun [Link](https://pan.baidu.com/s/1r-U4zNcqfH9uYSbBnBpsrA) (extract code: pmos)
 
 
 #### ShanghaiTech B
 ##### CSRNet
-Baidu Yun [Link](https://pan.baidu.com/s/1Znjeh4AybCE2FlrQodmkPA) extract code: tip1
+Baidu Yun [Link](https://pan.baidu.com/s/1Znjeh4AybCE2FlrQodmkPA) (extract code: tip1)
 ##### BL
-Baidu Yun [Link](https://pan.baidu.com/s/1a2l1xyXJ3ZmjUIaadL1gfw) extract code: h04q
+Baidu Yun [Link](https://pan.baidu.com/s/1a2l1xyXJ3ZmjUIaadL1gfw) (extract code: h04q)
 
 The pre-trained model will be released soon! 
 
