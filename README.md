@@ -14,9 +14,12 @@ We recommend Anaconda as the environment
 * visdom
 
 ## Training
-1. Modify data path in ReviewKD_train.py
-2. Begining training:
-python ReviewKD_train.py
+1. Modify --train_json and --test_json in ReviewKD_train.py
+2. Preper Pre-traind of Teacher network and modify --teacher_ckpt to your loacl path
+3. Begining training:
+ ```
+$ python ReviewKD_train.py
+ ```
 
 ## Test
 The pre-trained model will be released soon! 
