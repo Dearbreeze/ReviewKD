@@ -1,5 +1,5 @@
 # ReviewKD
-## ReviewKD: Review Boosted Knowledge Distillation for Crowd Counting with Performance  Beyond Teacher
+<!-- ## ReviewKD: Review Boosted Knowledge Distillation for Crowd Counting with Performance  Beyond Teacher -->
 
 ## Prerequisites
 We recommend Anaconda as the environment
