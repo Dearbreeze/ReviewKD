@@ -1,5 +1,5 @@
 # ReviewKD
-<!-- ## ReviewKD: Review Boosted Knowledge Distillation for Crowd Counting with Performance  Beyond Teacher -->
+
 The code will be released soon!
 
 ## Prerequisites
@@ -15,12 +15,7 @@ We recommend Anaconda as the environment
 * visdom
 
 ## Training
-1. Modify --train_json and --test_json in ReviewKD_train.py
-2. Preper a pre-trained of Teacher network and modify --teacher_ckpt to your local path
-3. Begining training:
- ```
-$ python ReviewKD_train.py
- ```
+
 
 ## Test
 ### The well-trained teacher networks Weight
