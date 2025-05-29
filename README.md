@@ -1,6 +1,6 @@
 # ReviewKD
 
-The code will be released soon!
+
 
 ## Prerequisites
 We recommend Anaconda as the environment
